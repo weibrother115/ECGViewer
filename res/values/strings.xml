@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ECGViewer</string>
+    <string name="hello_world">歡迎使用心電圖監控系統</string>
+    <string name="action_settings">Settings</string>
+    <string name="btnStart">連接</string>
+    <string name="title_activity_ecg">ECGActivity</string>
+
+</resources>
